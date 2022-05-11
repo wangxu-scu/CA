@@ -12,6 +12,7 @@ The datasets we used are provided by SAKE[1]. You can download the resized Sketc
 
 
 ============== Training: ==============
+
 cd src/
 
 # train with Sketchy Ext dataset
